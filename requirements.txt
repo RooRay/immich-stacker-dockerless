@@ -1,0 +1,2 @@
+requests
+str2bool==1.1
